@@ -1,0 +1,24 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #EEEEEE;
+    padding: 10px;
+    opacity: 0.5;
+    border-radius: 0 0 15px 15px;
+    height: 70px;
+}
+nav h1{
+    font-size: 2em;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 50px;
+    margin: 0 10px;
+    color: #EEEEEE;
+    font-size: 1.4em;
+}
+a{
+    color:darkblue;
+}
+
