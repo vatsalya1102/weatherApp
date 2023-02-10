@@ -15,3 +15,11 @@ input{
     padding: 10px;
     font-size: 1.2em;
 }
+label{
+    position: relative;
+}
+.arrow{
+    position: absolute;
+    top: 0;
+    right: 20px;
+}

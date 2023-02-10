@@ -7,8 +7,8 @@ export default function Navbar() {
             <h1>Thunder</h1>
             <div>
                 <ul>
-                    <li><a href="index.html">About</a></li>
-                    <li><a href="index.html">Live</a></li>
+                    <li><a className="nav-option" href="index.html">About</a></li>
+                    <li><a className="nav-option" href="index.html">Live</a></li>
                 </ul>
             </div>
         </nav>
